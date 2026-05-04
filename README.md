@@ -1,5 +1,5 @@
 # GraphTraversal
-# Graph Traversal Project
+# Graph Traversal Project 3
 
 This project implements breadth-first traversal and depth-first traversal for a directed graph.
 
